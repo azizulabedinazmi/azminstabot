@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.svg" alt="InstaBot banner" width="100%">
+</p>
+
 # InstaBot
 
 > Toolkit for building automated Instagram bots without direct access to the Instagram API or passsing through the review process.
